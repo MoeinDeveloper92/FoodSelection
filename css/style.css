@@ -1,0 +1,12 @@
+/* common style */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    text-decoration: none;
+    outline: none;
+    font-family: "Nunito", sans-serif;
+    font-weight: 400;
+}
+
+/* end of common styles */
