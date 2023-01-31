@@ -1,0 +1,7 @@
+
+The project is about selling a wide variety of foods. something like a food store..
+the firs section is slide show
+nes side we have thre different card with 3d shapes
+next is gallery iamges 
+if we hover them we can see prety nice efect
+the last part is a simple footer
