@@ -90,6 +90,13 @@ html {
     align-items: center;
     box-shadow: 3rem 3rem 3rem #000;
     position: relative;
+    transform: rotateY(20deg) skewX(-2deg);
+    transition: transfrom .5s, box-shadow.5s;
+}
+
+.card:hover {
+    transform: rotateY(20deg) skewX(-2deg) translateY(-3rem);
+    box-shadow: 2rem 2rem 2rem #000;
 }
 
 .card img {
