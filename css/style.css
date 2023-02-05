@@ -279,3 +279,91 @@ html {
 }
 
 /* end of section 3 */
+
+
+
+/* section-4 */
+.section-4 {
+    width: 100%;
+    min-height: 30vh;
+    background-color: #222;
+    display: flex;
+    justify-content: space-around;
+    padding: 3rem;
+    position: relative;
+    align-items: flex-start;
+}
+
+
+.copyright {
+    position: absolute;
+    bottom: 3rem;
+    font-size: 1.7rem;
+    color: #eee;
+    font-weight: 200;
+    letter-spacing: .1rem;
+    border-top: .1rem solid #888;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+
+
+.section-4-text {
+    text-transform: uppercase;
+
+}
+
+.section-4-heading {
+    font-size: 4rem;
+    font-weight: 900;
+    color: #a79a2d;
+}
+
+
+.signup-form-input {
+    width: 35rem;
+    height: 5rem;
+    padding: 1rem;
+    border: .2rem solid #a79a2d;
+    font-size: 1.6rem;
+    font-weight: 700;
+    letter-spacing: .1rem;
+    color: #a79a2d;
+}
+
+.signup-form-btn {
+    position: relative;
+    left: -4.5rem;
+    width: 4rem;
+    height: 4rem;
+    background-color: #333;
+    color: #a79a2d;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    font-size: 1.5rem;
+}
+
+.signup-form-btn:active {
+    transform: translateY(3px);
+}
+
+.signup-form-input::placeholder {
+    color: #817824;
+}
+
+
+.section-4-paragraph {
+    font-size: 1.5rem;
+    color: #888;
+}
+
+.signup-form {
+    display: flex;
+    align-items: center;
+}
+
+
+
+/* end of section-4 */
